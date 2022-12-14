@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3028097-973f-456b-8615-3dc0762c0355" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NW_KakaoTalk_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeforeLogin.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeforeLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FriendBoard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FriendBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/chatt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/chatting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/friend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/kakaotalk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/recommend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/searchFriend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageIcon/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageResizer/ImageResizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/ServerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Registration.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utilization/Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2It0A1sODLOCXcvO9SfzwSi5bj4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3028097-973f-456b-8615-3dc0762c0355" name="Changes" comment="" />
+      <created>1670985426874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670985426874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
